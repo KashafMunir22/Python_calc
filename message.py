@@ -1,0 +1,1 @@
+print("Result file is uploaded")
